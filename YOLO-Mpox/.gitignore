@@ -1,0 +1,11 @@
+# Model terlatih & dataset TIDAK boleh diunggah
+*.pt
+*.pth
+*.h5
+*.caffemodel
+Data/
+Results/train/fold*/weights/
+runs/
+datasets/
+__pycache__/
+*.zip

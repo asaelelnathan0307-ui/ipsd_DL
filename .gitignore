@@ -1,0 +1,9 @@
+﻿*.pt
+*.pth
+*.h5
+*.caffe
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/

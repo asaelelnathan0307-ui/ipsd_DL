@@ -1,0 +1,9 @@
+ultralytics
+kagglehub
+torch
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
