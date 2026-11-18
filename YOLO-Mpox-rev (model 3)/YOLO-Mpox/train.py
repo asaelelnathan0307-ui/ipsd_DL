@@ -16,7 +16,7 @@ def parseArgs(argv=None):
     p = argparse.ArgumentParser()
     p.add_argument("--model", default="yolo11n-cls.pt")
     p.add_argument("--scratch", action="store_true", help="tanpa bobot pretrained")
-    p.add_argument("--epochs", type=int, default=35)
+    p.add_argument("--epochs", type=int, default=10)
     p.add_argument("--batch", type=int, default=64)
     p.add_argument("--imgsz", type=int, default=224)
     p.add_argument("--lr", type=float, default=0.001)
